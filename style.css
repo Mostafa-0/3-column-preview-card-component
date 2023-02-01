@@ -130,6 +130,10 @@ footer{
     color: hsl(228, 45%, 44%);
 }
 
+.attribution a:hover{
+    color: rgb(105, 27, 178);
+}
+
 /* Large devices (laptops/desktops, 992px and up) */
 @media only screen and (min-width: 992px){
     .grid-container{
